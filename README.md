@@ -1,4 +1,4 @@
-# TOGrilFriendLetters
+# ToGrilfriendLetters
 作为程序员，给你喜欢的她的一封信，魔改了https://github.com/Rychou/two_years 这位大佬的资源，因为之前魔改的时候没有看到GITHUB上有开源，自己直接扒的静态页面修改的
 
 #写在前面
